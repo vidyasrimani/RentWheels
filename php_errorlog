@@ -1,0 +1,39 @@
+[16-Nov-2016 17:46:54 CST6CDT] PHP Parse error:  syntax error, unexpected ''<p>Your message has been sent' (T_CONSTANT_ENCAPSED_STRING) in /home/digiashi/public_html/project/contact.php on line 12
+[16-Nov-2016 17:52:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'contact' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/contact.php on line 13
+[16-Nov-2016 17:52:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'contact' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/contact.php on line 13
+[02-Dec-2016 17:38:58 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/digiashi/public_html/project/payment.php on line 18
+[02-Dec-2016 18:08:31 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digiashi/public_html/project/payment.php on line 3
+[03-Dec-2016 13:37:58 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/digiashi/public_html/project/findcars.php on line 3
+[03-Dec-2016 13:39:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ',' or ';' in /home/digiashi/public_html/project/findcars.php on line 4
+[03-Dec-2016 13:39:25 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/digiashi/public_html/project/findcars.php on line 4
+[03-Dec-2016 13:42:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'Date' (T_STRING), expecting ',' or ';' in /home/digiashi/public_html/project/findcars.php on line 2
+[03-Dec-2016 18:04:26 CST6CDT] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/digiashi/public_html/project/booking.php on line 18
+[03-Dec-2016 19:42:24 CST6CDT] PHP Fatal error:  Call to undefined function validate_card() in /home/digiashi/public_html/project/payment.php on line 5
+[03-Dec-2016 19:54:59 CST6CDT] PHP Fatal error:  Call to undefined function validate_card() in /home/digiashi/public_html/project/payment.php on line 5
+[03-Dec-2016 20:17:17 CST6CDT] PHP Fatal error:  Call to undefined function validate_card() in /home/digiashi/public_html/project/payment.php on line 5
+[03-Dec-2016 20:26:34 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digiashi/public_html/project/payment.php on line 16
+[03-Dec-2016 20:27:00 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digiashi/public_html/project/payment.php on line 16
+[03-Dec-2016 20:31:04 CST6CDT] PHP Fatal error:  Function name must be a string in /home/digiashi/public_html/project/booking.php on line 30
+[03-Dec-2016 20:32:20 CST6CDT] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/digiashi/public_html/project/booking.php on line 28
+[03-Dec-2016 20:34:28 CST6CDT] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/digiashi/public_html/project/booking.php on line 28
+[03-Dec-2016 20:34:37 CST6CDT] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/digiashi/public_html/project/booking.php on line 28
+[03-Dec-2016 20:45:17 CST6CDT] PHP Fatal error:  Call to undefined function fetch_assoc() in /home/digiashi/public_html/project/booking.php on line 26
+[03-Dec-2016 20:53:00 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digiashi/public_html/project/payment.php on line 16
+[03-Dec-2016 20:54:18 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digiashi/public_html/project/payment.php on line 16
+[03-Dec-2016 20:54:20 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digiashi/public_html/project/payment.php on line 16
+[03-Dec-2016 22:33:35 CST6CDT] PHP Parse error:  syntax error, unexpected 'spacing' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:34:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'spacing' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:35:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'blan' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:39:42 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:39:56 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:40:00 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:40:03 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:40:10 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 22:40:10 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 23:35:45 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 23:37:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'pixels' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 23:40:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'clear' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[03-Dec-2016 23:40:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'border' (T_STRING) in /home/digiashi/public_html/project/myaccount.php on line 123
+[04-Dec-2016 00:02:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'border' (T_STRING) in /home/digiashi/public_html/project/index_trial.php on line 123
+[04-Dec-2016 00:03:39 CST6CDT] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER) in /home/digiashi/public_html/project/index_trial.php on line 129
+[05-Dec-2016 00:27:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/digiashi/public_html/project/payment.php on line 3
