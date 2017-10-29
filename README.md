@@ -1,10 +1,13 @@
 # RentWheels
-RentWheels – A car rental system (Overview)
+RentWheels – A car rental system 
 
 The system, RentWheels, rents a car to a user for certain duration.
 A user is a person who can rent a car from one of the many available locations. Details of the user, like First name, last name, phone number, email, user type (admin or customer), password is recorded in the system. Additionally, every user must have an account, which will maintain details license number and if the user is in the system or deleted.
+
+
 A user can rent a car of a certain type from a location. A car can be of many types (hatchback, sedan or SUV). It also has a unique car number, a manufacturer, color, year of make, and an availability flag which denotes if the car is available for booking.
 Each car type has seating capacity (size : hatchback sedan or SUV). Each size has a different rate price. Many cars are available in one location. The company allows users to pick up cars from different locations. A car has certain details which are recorded in the system, such as brand, model, the price associated with each car. 
+
 Each location has a unique location zip, name and address.
 A user can book a car from any of the many locations, and has to return the car to the same location.
 A user can book a particular car for a specific duration. The system records the date when the car is booked, along with the pickup and return date of the car. Each booking has a status (booked, confirmed, paid, and cancelled). 
