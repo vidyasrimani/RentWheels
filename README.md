@@ -22,7 +22,8 @@ For a particular booking, a user can make a payment using his/her card. The deta
 
 Database Structure
 
-
+![ERDiagram](ImageCaptures/ERDiagram.PNG?raw=true "ER Diagram")
+      
 
 
 The database ,’digiashi_CarRental’ uses the following tables. 
@@ -37,23 +38,15 @@ cr_size
 cr_user
 cr_booking
 
+Mapping
 
-
+![Mapping](ImageCaptures/Mapping.PNG?raw=true "Mapping")
 
 
 
 
 
 Relational Schema
-
-
-
-
-
-
-
-
-
 
 SQL Statements
 -- phpMyAdmin SQL Dump
@@ -411,24 +404,33 @@ ALTER TABLE `cr_payment`
 
 
 
-Languages used
+##Languages used
+
+
 The system was developed using php, Javascript and Ajax.
 Bootstrap templates were used to design the front end structure of the system.
-The project can be accessed from the link below:
+
+
+#The project can be accessed from the link below:
+
 http://project.digiashish.com/
-Screenshots
+
+
+##Screenshots
+
 
 The user is prompted to login to the system. The user can login either as a customer or admin. If a new user visits the site, the user can sign up as well.
 LOGIN/SIGNUP
 
-
+![Login/signup](ImageCaptures/Capture5.PNG?raw=true "Login")
 
 An error message is displayed when invalid credentials are used.
 
 After the user logs in, the customer is directed to the home page.
 
 Home Page
-
+![Login/signup](ImageCaptures/Capture.PNG?raw=true "Login")
+![Login/signup](ImageCaptures/Capture2.PNG?raw=true "Login")
 
 
 The system follows two filtering processes. The user has to select the duration of travel, along with the place of pickup location (Step 1).
